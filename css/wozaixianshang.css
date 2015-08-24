@@ -27,7 +27,7 @@ a:hover { text-decoration: underline; }
 	display: none;
 }
 /*设置背景图片-------开始*/
-#banner_img li.item1 { background-image: url(../images/banner_bg1.jpg); display: block; }
+#banner_img li.item1 { background-image: url(https://img.alicdn.com/imgextra/i3/346853278/TB29mYYeFXXXXbPXpXXXXXXXXXX_!!346853278.jpg); display: block; }
 #banner_img li.item2 { background-image: url(../images/banner_bg2.jpg); }
 #banner_img li.item3 { background-image: url(../images/banner_bg3.jpg); }
 #banner_img li.item4 { background-image: url(../images/banner_bg4.jpg); }
